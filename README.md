@@ -25,22 +25,14 @@ Creating a GUI alarm using Python involves building a graphical user interface (
 
 You can customize the alarm sound by replacing the default "ringtone.mp3" file in the project directory with your own sound file. Ensure the sound file is in a compatible format (e.g., MP3) and update the file path in the code accordingly.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Special thanks to the open-source community for providing valuable libraries and resources for Python GUI development.
-- Credit to [Prayash Kumar] for creating and maintaining this GUI Alarm Clock.
-
-## Support
-
-If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the project's GitHub repository.
+- Credit to Prayash Kumar for creating and maintaining this GUI Alarm Clock.
 
 ## Contributors
 
-- [Prayash Kumar Pandey] - Project Lead
+- Prayash Kumar Pandey - Project Lead
 
 ## Contact
 
